@@ -5,4 +5,4 @@ A simple drag and drop checksum verifier tool
 Drag your target file into this tool and enter the expected SHA1 Hash
 
 ## Compatibility
-* Windows-NT Systems
+* Windows-NT
