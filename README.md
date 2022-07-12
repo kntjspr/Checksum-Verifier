@@ -9,4 +9,4 @@ Drag your target file into this tool and enter the expected SHA1 Hash
 
 ## Use case
 * Prevent execution on unwanted mission critical data alteration (i.e file.dll tampered then abort execution)
-* Safety mechanism for MITM, DNS poisoning attacks (i.e Altered program.exe in manufacturer websites) 
+* Safety mechanism for MITM, DNS poisoning attacks (i.e tampered program.exe in manufacturer websites) 
