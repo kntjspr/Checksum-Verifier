@@ -1,4 +1,4 @@
-# SHA1-Checksum-Verifier
+# Checksum-Verifier
 A simple drag and drop checksum verifier tool 
 
 ## How to use
