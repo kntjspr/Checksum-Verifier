@@ -46,5 +46,3 @@ echo Result: %checksum%
 echo Checksum good
 PAUSE
 exit
-
-PAUSE
