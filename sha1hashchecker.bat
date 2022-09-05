@@ -40,12 +40,11 @@ echo Checksum bad
 pause
 exit
 
-PAUSE
-
-
 :run
 echo Input: %original%
 echo Result: %checksum%
 echo Checksum good
 PAUSE
 exit
+
+PAUSE
